@@ -1,25 +1,39 @@
 
+        
+<h2> Olá! Eu me chamo Matheus Ferreira . <img src="https://github.com/zMatheusPro/zMatheusPro/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/zMatheusPro/zMatheusPro/blob/master/gif4.gif?raw=true" width="410"/>
+<h3> 🧑🏾‍💻 Sobre mim </h3>
 
-<h1 align="center">Matheus Ferreira</h1>
+- 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
+- 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend .
+- 💼 &nbsp; FullStack developer
+- ✍️ &nbsp; Assistir animes, series e podcasts de tecnologia 
+- ☕ &nbsp; Acredito que uma copinho de nescau gelado pode ser a solução definitiva para o estresse. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; NodeJs | HTML | CSS | SCSS | JavaScript | TypeScript 
+- ☁️ &nbsp; AWS | Docker | Serverless 
+- 🛢 &nbsp; MongoDB | MySQL  | Xampp | Postegress
+- 🔧 &nbsp;Visual stutio code | Git | Insominia
+- 🖥 &nbsp; GIMP 
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zMatheusPro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zMatheusPro Github Stats">
+
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zMatheusPro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zMatheusPro/github-readme-stats)
+
+<h3> 🤝🏻 Conecte-se comigo </h3>
+
 <p align="center">
-<p align="center"><samp> Web developer </samp></p>
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zMatheusPro&show_icons=true&hide_border=true&theme=radical">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMatheusPro&show_icons=true&hide_border=true&theme=radical&layout=compact">
-<p>Olá, meu nome é Matheus, tenho 17 anos. Comecei no mundo da programação com 14 anos e hoje estudo bastante sobre desenvolvimento web com React.js & Flutter para Front-end, Node.js para Back-end.</p>
-
-<p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-square&logo=react&logoColor=61DAFB" />
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-square&logo=express&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-square&logo=php&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-square&logo=css3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-square&logo=sass&logoColor=white"/>
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-square&logo=postgresql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+&nbsp; <a href="https://www.linkedin.com/in/matheus-ferreira-25a58b208/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:zm4theuspro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
+&nbsp; <a href="https://www.instagram.com/matheeus.f_//" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
+
+
+
