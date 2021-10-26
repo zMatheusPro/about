@@ -1,7 +1,7 @@
 
         
-<h2> Olá! Eu me chamo Matheus Ferreira . <img src="https://github.com/zMatheusPro/zMatheusPro/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/zMatheusPro/zMatheusPro/blob/master/gif4.gif?raw=true" width="410"/>
+<h2> Olá! Eu me chamo Matheus Ferreira . <img src="https://github.com/zMatheusPro/zMatheusPro/blob/main/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/zMatheusPro/zMatheusPro/blob/main/gif4.gif?raw=true" width="410"/>
 <h3> 🧑🏾‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
