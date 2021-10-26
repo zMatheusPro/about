@@ -12,11 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJs | HTML | CSS | SCSS | JavaScript | TypeScript 
+- 💻 &nbsp; NodeJS | ReactJS | HTML | (S)CSS | JavaScript | TypeScript 
 - ☁️ &nbsp; AWS | Docker | Serverless 
 - 🛢 &nbsp; MongoDB | MySQL  | Xampp | Postegress
 - 🔧 &nbsp;Visual stutio code | Git | Insominia
-- 🖥 &nbsp; GIMP 
 
 <br>
 
