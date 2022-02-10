@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" src="https://github.com/zMatheusPro/zMatheusPro/blob/main/gif4.gif?raw=true" width="410"/>
 <h3> 🧑🏾‍💻 Sobre mim </h3>
 
-- 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
-- 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend .
+<!-- - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
+- 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend . -->
 - 💼 &nbsp; FullStack developer
 - ✍️ &nbsp; Assistir animes, series e podcasts de tecnologia 
 - ☕ &nbsp; Acredito que uma copinho de nescau gelado pode ser a solução definitiva para o estresse. 
@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS | ReactJS | HTML | (S)CSS | JavaScript | TypeScript 
-- ☁️ &nbsp; AWS | Docker | Serverless 
+- ☁️ &nbsp; AWS | Docker 
 - 🛢 &nbsp; MongoDB | MySQL  | Xampp | Postegress
 - 🔧 &nbsp;Visual stutio code | Git | Insominia
 
