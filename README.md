@@ -7,15 +7,15 @@
 <!-- - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend . -->
 - 💼 &nbsp; FullStack developer
-- ✍️ &nbsp; Assistir animes, series e podcasts de tecnologia 
-- ☕ &nbsp; Acredito que uma copinho de nescau gelado pode ser a solução definitiva para o estresse. 
+- ✍️ &nbsp; Sempre em busca de melhores resultados.
+- ☕ &nbsp; Acredito que com uma boa comunicação tudo pode fluir bem.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS | ReactJS | HTML | (S)CSS | JavaScript | TypeScript 
 - ☁️ &nbsp; AWS | Docker 
-- 🛢 &nbsp; MongoDB | MySQL  | Xampp | Postegress
-- 🔧 &nbsp;Visual stutio code | Git | Insominia
+- 🛢 &nbsp; MongoDB | MySQL | Postegress
+- 🔧 &nbsp;Visual studio code | Git
 
 <br>
 
@@ -30,8 +30,8 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/matheus-ferreira-25a58b208/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:zm4theuspro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
-&nbsp; <a href="https://www.instagram.com/matheeus.f_//" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:matheus.fdev03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
+&nbsp; <a href="https://www.instagram.com/matheeus.f_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
 
