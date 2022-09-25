@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | ReactJS | HTML | (S)CSS | JavaScript | TypeScript 
+- 💻 &nbsp; NodeJS | ReactJS | React Native | HTML | (S)CSS | TypeScript 
 - ☁️ &nbsp; AWS | Docker 
 - 🛢 &nbsp; MongoDB | MySQL | Postegress
 - 🔧 &nbsp;Visual studio code | Git
