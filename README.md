@@ -5,7 +5,7 @@
 <h3> 🧑🏾‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
-- 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend . -->
+- 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend.
 - 💼 &nbsp; FullStack developer
 - ✍️ &nbsp; Sempre em busca de melhores resultados.
 - ☕ &nbsp; Acredito que com uma boa comunicação tudo pode fluir bem.
