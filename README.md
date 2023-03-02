@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/zMatheusPro/zMatheusPro/blob/main/gif4.gif?raw=true" width="410"/>
 <h3> 🧑🏾‍💻 Sobre mim </h3>
 
-<!-- - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend . -->
 - 💼 &nbsp; FullStack developer
 - ✍️ &nbsp; Sempre em busca de melhores resultados.
